@@ -40,6 +40,7 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="README.md" />
     <None Include="WindowsBlogReader_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
