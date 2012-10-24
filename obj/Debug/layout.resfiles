@@ -18,7 +18,6 @@ App.xaml
 Common\StandardStyles.xaml
 DetailPage.xaml
 ItemsPage.xaml
-ItemsPage1.xaml
 MainPage.xaml
 SplitPage.xaml
 Common\ReadMe.txt

@@ -16,17 +16,17 @@
     <AppXManifest Include="E:\Downloads\Windows8RTSReader\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-10-24T07:05:55.371</Modified>
+      <Modified>2012-10-24T07:42:51.263</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\WindowsBlogReader.exe">
       <PackagePath>WindowsBlogReader.exe</PackagePath>
-      <Modified>2012-10-24T07:05:55.174</Modified>
+      <Modified>2012-10-24T07:42:51.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\WindowsBlogReader.pdb">
       <PackagePath>WindowsBlogReader.pdb</PackagePath>
-      <Modified>2012-10-24T07:05:55.174</Modified>
+      <Modified>2012-10-24T07:42:51.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -117,21 +117,17 @@
       <PackagePath>ItemsPage.xaml</PackagePath>
       <Modified>2012-10-24T06:47:54.146</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\ItemsPage1.xaml">
-      <PackagePath>ItemsPage1.xaml</PackagePath>
-      <Modified>2012-10-24T07:04:26.273</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
       <Modified>2012-10-24T06:47:54.305</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\SplitPage.xaml">
       <PackagePath>SplitPage.xaml</PackagePath>
-      <Modified>2012-10-24T06:47:54.256</Modified>
+      <Modified>2012-10-24T07:35:45.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-10-24T07:05:55.244</Modified>
+      <Modified>2012-10-24T07:42:51.224</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

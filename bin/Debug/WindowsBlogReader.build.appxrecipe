@@ -87,9 +87,6 @@
     <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\ItemsPage.xaml">
       <PackagePath>ItemsPage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\ItemsPage1.xaml">
-      <PackagePath>ItemsPage1.xaml</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
     </AppxPackagedFile>

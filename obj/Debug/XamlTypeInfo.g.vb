@@ -134,15 +134,11 @@ Namespace Global.WindowsBlogReader.WindowsBlogReader_XamlTypeInfo
             Return New Global.WindowsBlogReader.ItemsPage()
         End Function
 
-        Private Function Activate_13_ItemsPage1() As Global.System.Object
-            Return New Global.WindowsBlogReader.ItemsPage1()
-        End Function
-
-        Private Function Activate_14_MainPage() As Global.System.Object
+        Private Function Activate_13_MainPage() As Global.System.Object
             Return New Global.WindowsBlogReader.MainPage()
         End Function
 
-        Private Function Activate_15_SplitPage() As Global.System.Object
+        Private Function Activate_14_SplitPage() As Global.System.Object
             Return New Global.WindowsBlogReader.SplitPage()
         End Function
 
@@ -280,19 +276,14 @@ Namespace Global.WindowsBlogReader.WindowsBlogReader_XamlTypeInfo
                 userType.Activator = AddressOf Activate_12_ItemsPage
                 xamlType = userType
 
-            Case "WindowsBlogReader.ItemsPage1"
-                userType = New Global.WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(Me, typeName, DirectCast(GetType(Global.WindowsBlogReader.ItemsPage1), Global.System.Type), GetXamlTypeByName("WindowsBlogReader.Common.LayoutAwarePage"))
-                userType.Activator = AddressOf Activate_13_ItemsPage1
-                xamlType = userType
-
             Case "WindowsBlogReader.MainPage"
                 userType = New Global.WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(Me, typeName, DirectCast(GetType(Global.WindowsBlogReader.MainPage), Global.System.Type), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"))
-                userType.Activator = AddressOf Activate_14_MainPage
+                userType.Activator = AddressOf Activate_13_MainPage
                 xamlType = userType
 
             Case "WindowsBlogReader.SplitPage"
                 userType = New Global.WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(Me, typeName, DirectCast(GetType(Global.WindowsBlogReader.SplitPage), Global.System.Type), GetXamlTypeByName("WindowsBlogReader.Common.LayoutAwarePage"))
-                userType.Activator = AddressOf Activate_15_SplitPage
+                userType.Activator = AddressOf Activate_14_SplitPage
                 xamlType = userType
 
             End Select

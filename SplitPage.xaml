@@ -26,7 +26,7 @@
                 <ContentControl Template="{StaticResource DateBlockTemplate}" />
                 <StackPanel Grid.Column="1"  HorizontalAlignment="Left" Margin="12,8,0,0">
                     <TextBlock Text="{Binding Title}" FontSize="26.667" TextWrapping="Wrap"
-                           MaxHeight="72" Foreground="#FFFE5815" />
+                           MaxHeight="72" Foreground="#DE000000" />
                     <!--<TextBlock Text="{Binding Author}" FontSize="18.667" />-->
                 </StackPanel>
             </Grid>
@@ -42,7 +42,7 @@
                 <Border Background="{StaticResource BlockBackgroundBrush}" Width="80" Height="80"/>
                 <ContentControl Template="{StaticResource DateBlockTemplate}" Margin="-12,-12,0,0"/>
                 <StackPanel Grid.Column="1" HorizontalAlignment="Left" Margin="12,8,0,0">
-                    <TextBlock Text="{Binding Title}" MaxHeight="56" Foreground="#FFFE5815" TextWrapping="Wrap"/>
+                    <TextBlock Text="{Binding Title}" MaxHeight="56" Foreground="#DE000000" TextWrapping="Wrap"/>
                     <!--<TextBlock Text="{Binding Author}" FontSize="12" />-->
                 </StackPanel>
             </Grid>
@@ -128,7 +128,7 @@
             Grid.Row="1"
             Padding="70,0,120,0"
             DataContext="{Binding SelectedItem, ElementName=itemListView}"
-            Style="{StaticResource VerticalScrollViewerStyle}" IsHoldingEnabled="False">
+            Style="{StaticResource VerticalScrollViewerStyle}">
 
             <Grid x:Name="itemDetailGrid">
                 <Grid.RowDefinitions>
