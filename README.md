@@ -1,0 +1,1 @@
+﻿Reedme file VS12 test sa txt dokumentom
