@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="RTSReader" Publisher="CN=Ivan" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>RTS Reader App</DisplayName>
+    <PublisherDisplayName>Emedia</PublisherDisplayName>
+    <Logo>Assets\RTSVesti50x50.png</Logo>
+    <Description>WindowsBlogReader VB sample</Description>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="WindowsBlogReader.App">
+      <VisualElements DisplayName="RTS Reader" Logo="Assets\RTSVesti150x150.png" SmallLogo="Assets\RTSVesti30x30.png" Description="RTS Reader App" ForegroundText="light" BackgroundColor="#C4C9FB">
+        <DefaultTile ShowName="wideLogoOnly" ShortName="RTS Reader" WideLogo="Assets\RTSVest310x150.png" />
+        <SplashScreen Image="Assets\RTSVesti620x300.png" BackgroundColor="#C4C9FB" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

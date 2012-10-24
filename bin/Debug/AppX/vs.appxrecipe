@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMEDIAPC</Machine>
+    <WindowsUser>Ivan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>94E54437313DB931AF69F04EF4C1CF77E1F0F6EB6F69B9F1DF5D5B7B2F9036D7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>RTSReader_1.0.0.0_neutral__gk938hsxq58a8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>RTSReader_gk938hsxq58a8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>RTSReader</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ivan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Downloads\Windows8RTSReader\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-24T07:05:55.371</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\WindowsBlogReader.exe">
+      <PackagePath>WindowsBlogReader.exe</PackagePath>
+      <Modified>2012-10-24T07:05:55.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\WindowsBlogReader.pdb">
+      <PackagePath>WindowsBlogReader.pdb</PackagePath>
+      <Modified>2012-10-24T07:05:55.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\RTSVest310x150.png">
+      <PackagePath>Assets\RTSVest310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-19T15:26:54.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\RTSVesti150x150.png">
+      <PackagePath>Assets\RTSVesti150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-19T15:22:42.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\RTSVesti24x24.png">
+      <PackagePath>Assets\RTSVesti24x24.png</PackagePath>
+      <Modified>2012-10-19T15:28:27.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\RTSVesti30x30.png">
+      <PackagePath>Assets\RTSVesti30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-19T15:24:26.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\RTSVesti50x50.png">
+      <PackagePath>Assets\RTSVesti50x50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-19T15:23:55.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\RTSVesti620x300.png">
+      <PackagePath>Assets\RTSVesti620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-19T20:14:27.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-10-18T07:04:51.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2012-09-27T14:54:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-10-24T07:04:27.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-10-24T06:47:54.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-10-24T06:47:53.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\DetailPage.xaml">
+      <PackagePath>DetailPage.xaml</PackagePath>
+      <Modified>2012-10-24T06:47:54.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\ItemsPage.xaml">
+      <PackagePath>ItemsPage.xaml</PackagePath>
+      <Modified>2012-10-24T06:47:54.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\ItemsPage1.xaml">
+      <PackagePath>ItemsPage1.xaml</PackagePath>
+      <Modified>2012-10-24T07:04:26.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-10-24T06:47:54.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2012-10-24T06:47:54.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Downloads\Windows8RTSReader\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-24T07:05:55.244</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
